@@ -1,0 +1,11 @@
+order_id,order_item,cost,order_dt,expected_disp_dt,order_status,deliver_status
+9001,Iphone,800,12-May-20,21-May-20,Delivered,Success
+9002,Ipad,300,20-Mar-20,27-Mar-20,,
+9003,TV,450,31-Jan-20,7-Feb-20,Delivered,Success
+9004,Table,120,17-Jul-20,24-Jul-20,Delivered,Success
+9005,Chair,150,21-Aug-20,28-Aug-20,,
+9006,Sofaset,700,23-Aug-20,30-Aug-20,Delivered,Success
+9010,Laptop,1200,26-Aug-20,2-Sep-20,Delivered,Success
+9011,Audiodevice,300,26-Aug-20,3-Sep-20,Delivered,Success
+9012,Sofaset,850,28-Aug-20,4-Sep-20,,In Progress
+9099,TV,550,31-Aug-20,7-Sep-20,,In Progress
